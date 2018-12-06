@@ -1,0 +1,332 @@
+Bubble b1;
+Bubble b2;
+Bubble b3;
+Bubble b4;
+Bubble b5;
+Bubble b6;
+Bubble b7;
+Bubble b8;
+Bubble b9;
+Bubble b10;
+Bubble b11;
+Bubble b12;
+Bubble b13;
+Bubble b14;
+Bubble b15;
+Bubble b16;
+Bubble b17;
+Bubble b18;
+Bubble b19;
+Bubble b20;
+Bubble b21;
+Bubble b22;
+Bubble b23;
+Bubble b24;
+Bubble b25;
+Bubble b26;
+Bubble b27;
+Bubble b28;
+Bubble b29;
+Bubble b30;
+Bubble b31;
+Bubble b32;
+Bubble b33;
+Bubble b34;
+Bubble b35;
+Bubble b36;
+Bubble b37;
+Bubble b38;
+Bubble b39;
+Bubble b40;
+Bubble b41;
+Bubble b42;
+Bubble b43;
+Bubble b44;
+Bubble b45;
+
+
+void setup() {
+  size(640,360);
+  b1 = new Bubble();
+  b2 = new Bubble();
+  b3 = new Bubble();
+  b4 = new Bubble();
+  b5 = new Bubble();
+  b6 = new Bubble();
+  b7 = new Bubble();
+  b8 = new Bubble();
+  b9 = new Bubble();
+  b10 = new Bubble();
+  b11 = new Bubble();
+  b12 = new Bubble();
+  b13 = new Bubble();
+  b14 = new Bubble();
+  b15 = new Bubble();
+  b16 = new Bubble();
+  b17 = new Bubble();
+  b18 = new Bubble();
+  b19 = new Bubble();
+  b20 = new Bubble();
+  b21 = new Bubble();
+  b22 = new Bubble();
+  b23 = new Bubble();
+  b24 = new Bubble();
+  b25 = new Bubble();
+  b26 = new Bubble();
+  b27 = new Bubble();
+  b28 = new Bubble();
+  b29 = new Bubble();
+  b30 = new Bubble();
+  b31 = new Bubble();
+  b32 = new Bubble();
+  b33 = new Bubble();
+  b34 = new Bubble();
+  b35 = new Bubble();
+  b36 = new Bubble();
+  b37 = new Bubble();
+  b38 = new Bubble();
+  b39 = new Bubble();
+  b40 = new Bubble();
+  b41 = new Bubble();
+  b42 = new Bubble();
+  b43 = new Bubble();
+  b44 = new Bubble();
+  b45 = new Bubble();
+  
+  
+}
+
+void draw() {
+  background(255);
+  b1.display(1);
+  b1.ascend();
+  b1.top();
+  b1.wobble();
+  
+  b2.display(2);
+  b2.ascend();
+  b2.top();
+  b2.wobble();
+  
+  b3.display(1);
+  b3.ascend();
+  b3.top();
+  
+  b4.display(1);
+  b4.ascend();
+  b4.top();
+  
+  b5.display(2);
+  b5.ascend();
+  b5.top();
+  
+  b6.display(1);
+  b6.ascend();
+  b6.top();
+  
+   b7.display(2);
+  b7.ascend();
+  b7.top();
+  
+   b8.display(1);
+  b8.ascend();
+  b8.top();
+ 
+   b9.display(2);
+  b9.ascend();
+  b9.top();
+  
+   b10.display(1);
+  b10.ascend();
+  b10.top();
+  
+   b11.display(2);
+  b11.ascend();
+  b11.top();
+  
+   b12.display(1);
+  b12.ascend();
+  b12.top();
+  
+   b12.display(2);
+  b13.ascend();
+  b13.top();
+  
+   b14.display(1);
+  b14.ascend();
+  b14.top();
+  
+   b15.display(2);
+  b15.ascend();
+  b15.top();
+  
+   b16.display(1);
+  b16.ascend();
+  b16.top();
+  
+   b17.display(2);
+  b17.ascend();
+  b17.top();
+  
+   b18.display(1);
+  b18.ascend();
+  b18.top();
+  
+   b19.display(2);
+  b19.ascend();
+  b19.top();
+  
+   b20.display(1);
+  b20.ascend();
+  b20.top();
+  
+   b21.display(2);
+  b21.ascend();
+  b21.top();
+  
+   b22.display(1);
+  b22.ascend();
+  b22.top();
+  
+   b23.display(2);
+  b23.ascend();
+  b23.top();
+  
+   b24.display(1);
+  b24.ascend();
+  b24.top();
+  
+   b25.display(2);
+  b25.ascend();
+  b25.top();
+  
+   b26.display(1);
+  b26.ascend();
+  b26.top();
+  
+   b27.display(2);
+  b27.ascend();
+  b27.top();
+  
+   b28.display(1);
+  b28.ascend();
+  b28.top();
+  
+   b29.display(2);
+  b29.ascend();
+  b29.top();
+  
+   b30.display(1);
+  b30.ascend();
+  b30.top();
+  
+   b31.display(2);
+  b31.ascend();
+  b31.top();
+  
+   b32.display(1);
+  b32.ascend();
+  b32.top();
+  
+   b33.display(2);
+  b33.ascend();
+  b33.top();
+  
+   b34.display(1);
+  b34.ascend();
+  b34.top();
+  
+   b35.display(2);
+  b35.ascend();
+  b35.top();
+  
+   b36.display(1);
+  b36.ascend();
+  b36.top();
+  
+   b37.display(2);
+  b37.ascend();
+  b37.top();
+  
+   b38.display(1);
+  b38.ascend();
+  b38.top();
+  
+   b39.display(2);
+  b39.ascend();
+  b39.top();
+  
+   b40.display(1);
+  b40.ascend();
+  b40.top();
+  
+   b41.display(2);
+  b41.ascend();
+  b41.top();
+  
+   b42.display(1);
+  b42.ascend();
+  b42.top();
+  
+   b43.display(2);
+  b43.ascend();
+  b43.top();
+  
+   b44.display(1);
+  b44.ascend();
+  b44.top();
+  
+   b45.display(2);
+  b45.ascend();
+  b45.top();
+  
+  
+  
+}
+
+
+
+
+
+
+class Bubble {
+  float x;
+  float y;
+  float diam;
+  color teal = color(0,255,255,50);
+  color pink = color(255,155,155,100);
+  int bubColor;
+  
+  //constructor: what all bubbles have in common
+  Bubble() {
+    x = random(width);
+    y = height;
+    diam = random(25,60);
+ }
+
+  void display(int bubColor) {
+    noStroke();
+    if (bubColor == 1) {
+      fill(255,255,0);
+    }
+    else {
+      fill(0,255,255);
+    }
+    ellipse(x,y,diam,diam);
+  }
+  
+  void ascend() {
+    y--;
+  }
+  
+  void top() {
+    if (y < diam/2) {
+      y = diam/2;
+    }
+  }
+  
+  void wobble() {
+    x = x + random(-1.2,1.2);
+  }
+
+}
